@@ -4,7 +4,15 @@ import pandas as pd
 import numpy as np
 st.write("good")
 st.image("labstr.png", caption="Sunrise by the mountains")
-
+st.markdown(
+    """
+    <div style="direction: rtl;">
+        <h2>سيارات</h2>
+        
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 st.image("test2.png", caption="test")
 st.title("سيارات ")
 
