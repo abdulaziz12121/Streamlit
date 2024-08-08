@@ -28,3 +28,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+st.image("image1.png", caption="Sunrise by the mountains")
