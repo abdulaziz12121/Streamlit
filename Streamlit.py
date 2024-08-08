@@ -4,8 +4,8 @@ import pandas as pd
 import numpy as np
 st.markdown(
     """
-    <div style="color: red;" style="direction: rtl;">
-        <h1>العنوان </h1>
+   <div style="direction: rtl;">
+    <h1 style="color: red;">العنوان</h1>
         
     </div>
     """,
