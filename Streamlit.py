@@ -23,4 +23,84 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.image("image1.png", caption="Sunrise by the mountains")
+st.image("image1.png")
+#-----------------------------------------------------------------------
+
+# Using HTML and CSS to set text direction to right-to-left
+st.markdown(
+    """
+    <div style="direction: rtl;">
+        <h2>العنوان الفرعي</h2>
+        
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+st.image("image2.png")
+#-----------------------------------------------------------------------
+
+# Using HTML and CSS to set text direction to right-to-left
+st.markdown(
+    """
+    <div style="direction: rtl;">
+        <h2>العنوان الفرعي</h2>
+        
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+st.image("image3.png")
+#-----------------------------------------------------------------------
+
+# Using HTML and CSS to set text direction to right-to-left
+st.markdown(
+    """
+    <div style="direction: rtl;">
+        <h2>العنوان الفرعي</h2>
+        
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+st.image("image4.png")
+#-----------------------------------------------------------------------
+
+# Using HTML and CSS to set text direction to right-to-left
+st.markdown(
+    """
+    <div style="direction: rtl;">
+        <h2>العنوان الفرعي</h2>
+        
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+st.image("image5.png")
+#-----------------------------------------------------------------------
+
+# Using HTML and CSS to set text direction to right-to-left
+st.markdown(
+    """
+    <div style="direction: rtl;">
+        <h2>العنوان الفرعي</h2>
+        
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+st.image("image6.png")
+#-----------------------------------------------------------------------
+
+# Using HTML and CSS to set text direction to right-to-left
+st.markdown(
+    """
+    <div style="direction: rtl;">
+        <h2>العنوان الفرعي</h2>
+        
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+st.image("image7.png")
+
+
