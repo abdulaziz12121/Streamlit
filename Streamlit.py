@@ -5,7 +5,7 @@ import numpy as np
 st.markdown(
     """
    <div style="direction: rtl;">
-    <h1 style="color: red; font-weight: bold;">العنوان</h1>
+    <h1 style="font-weight: bold;">العنوان</h1>
         
     </div>
     """,
