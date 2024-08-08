@@ -5,13 +5,12 @@ import numpy as np
 st.markdown(
     """
    <div style="direction: rtl;">
-    <h1 style="color: red;">العنوان</h1>
+    <h1 style="color: red; font-weight: bold;">العنوان</h1>
         
     </div>
     """,
     unsafe_allow_html=True
 )
-
 
 
 # Using HTML and CSS to set text direction to right-to-left
