@@ -63,7 +63,7 @@ st.image("image3.png")
 st.markdown(
     """
     <div style="direction: rtl;">
-        <h2>أفضل 5 علامات تجارية في الرياض/h2>
+        <h2>أفضل 5 علامات تجارية في الرياض/</h2>
         
     </div>
     """,
