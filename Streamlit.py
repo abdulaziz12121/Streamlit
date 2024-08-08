@@ -14,8 +14,8 @@ st.markdown("<h1 style='text-align: center; color: red;'>سيارات</h1>", uns
 st.markdown(
     """
     <div style="direction: rtl;">
-        <h1>This text is written from right to left</h1>
-        <p>سيارات/p>
+        <h1>سيارات</h1>
+        
     </div>
     """,
     unsafe_allow_html=True
