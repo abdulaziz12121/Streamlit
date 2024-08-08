@@ -17,7 +17,7 @@ st.markdown(
 st.markdown(
     """
     <div style="direction: rtl;">
-        <h2>العنوان الفرعي</h2>
+        <h2>توزيع السيارات المستعملة في المملكة العربية السعودية /h2>
         
     </div>
     """,
@@ -30,7 +30,7 @@ st.image("image1.png")
 st.markdown(
     """
     <div style="direction: rtl;">
-        <h2>العنوان الفرعي</h2>
+        <h2> القدرة على التفاوض على السعر</h2>
         
     </div>
     """,
@@ -43,7 +43,7 @@ st.image("image2.png")
 st.markdown(
     """
     <div style="direction: rtl;">
-        <h2>العنوان الفرعي</h2>
+        <h2> أعلى 5 علامات تجارية </h2>
         
     </div>
     """,
@@ -56,7 +56,7 @@ st.image("image3.png")
 st.markdown(
     """
     <div style="direction: rtl;">
-        <h2>العنوان الفرعي</h2>
+        <h2>أفضل 5 علامات تجارية في الرياض/h2>
         
     </div>
     """,
@@ -69,7 +69,7 @@ st.image("image4.png")
 st.markdown(
     """
     <div style="direction: rtl;">
-        <h2>العنوان الفرعي</h2>
+        <h2> أفضل 5 علامات تجارية في الدمام</h2>
         
     </div>
     """,
@@ -82,7 +82,7 @@ st.image("image5.png")
 st.markdown(
     """
     <div style="direction: rtl;">
-        <h2>العنوان الفرعي</h2>
+        <h2> أفضل 5 علامات تجارية في جدة</h2>
         
     </div>
     """,
@@ -95,7 +95,7 @@ st.image("image6.png")
 st.markdown(
     """
     <div style="direction: rtl;">
-        <h2>العنوان الفرعي</h2>
+        <h2> أفضل 5 علامات تجارية في القصيم</h2>
         
     </div>
     """,
